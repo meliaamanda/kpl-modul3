@@ -1,0 +1,10 @@
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\bin\Debug\Quiz_Modul3_103082400039.exe.config
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\bin\Debug\Quiz_Modul3_103082400039.exe
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\bin\Debug\Quiz_Modul3_103082400039.pdb
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.csproj.AssemblyReference.cache
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.Form1.resources
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.Properties.Resources.resources
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.csproj.GenerateResource.cache
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.csproj.CoreCompileInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.exe
+D:\KULIAH\semester 4\konstruksi PL\Quiz_Modul3_103082400039\Quiz_Modul3_103082400039\obj\Debug\Quiz_Modul3_103082400039.pdb
